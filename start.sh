@@ -1,3 +1,4 @@
 #!/bin/sh
-python  web_app.py &
-python  web_api.py
+
+# Starting the Python application directly using python3
+python3 start.py
